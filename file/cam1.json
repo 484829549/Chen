@@ -1,0 +1,275 @@
+{
+    "camera": "camera_1",
+    "treatDetail": [
+        {
+            "bodyName": "肩颈部",
+            "mode": "痛点治疗",
+            "type": "welld",
+            "optionName": "方案1",
+            "pointsNum": 3,
+            "parameters": {
+                "zkb": 20,
+                "frequence": 1,
+                "speed": 4,
+                "ultrasoundIntensity": 2.0,
+                "time": 20,
+                "strength": 1
+            }
+        },
+        {
+            "bodyName": "肩颈部",
+            "mode": "痛点治疗",
+            "type": "welld",
+            "optionName": "方案2",
+            "pointsNum": 3,
+            "parameters": {
+                "zkb": 20,
+                "frequence": 3,
+                "speed": 4,
+                "ultrasoundIntensity": 0.9,
+                "time": 20,
+                "strength": 1
+            }
+        },
+        {
+            "bodyName": "胸背部",
+            "mode": "常规治疗",
+            "type": "welld",
+            "optionName": "方案1",
+            "pointsNum": 2,
+            "parameters": {
+                "zkb": 20,
+                "frequence": 1,
+                "speed": 4,
+                "ultrasoundIntensity": 2.0,
+                "time": 8,
+                "strength": 1
+            }
+        },
+        {
+            "bodyName": "胸背部",
+            "mode": "常规治疗",
+            "type": "welld",
+            "optionName": "方案2",
+            "pointsNum": 2,
+            "parameters": {
+                "zkb": 20,
+                "frequence": 3,
+                "speed": 4,
+                "ultrasoundIntensity": 0.9,
+                "time": 8,
+                "strength": 1
+            }
+        },
+        {
+            "bodyName": "胸背部",
+            "mode": "痛点治疗",
+            "type": "welld",
+            "optionName": "方案1",
+            "pointsNum": 3,
+            "parameters": {
+                "zkb": 20,
+                "frequence": 1,
+                "speed": 4,
+                "ultrasoundIntensity": 2.0,
+                "time": 12,
+                "strength": 1
+            }
+        },
+        {
+            "bodyName": "胸背部",
+            "mode": "痛点治疗",
+            "type": "welld",
+            "optionName": "方案2",
+            "pointsNum": 3,
+            "parameters": {
+                "zkb": 20,
+                "frequence": 3,
+                "speed": 4,
+                "ultrasoundIntensity": 0.9,
+                "time": 12,
+                "strength": 1
+            }
+        },
+        {
+            "bodyName": "腰部",
+            "mode": "痛点治疗",
+            "type": "welld",
+            "optionName": "方案1",
+            "pointsNum": 3,
+            "parameters": {
+                "zkb": 20,
+                "frequence": 1,
+                "speed": 4,
+                "ultrasoundIntensity": 2.0,
+                "time": 12,
+                "strength": 1
+            }
+        },
+        {
+            "bodyName": "腰部",
+            "mode": "痛点治疗",
+            "type": "welld",
+            "optionName": "方案2",
+            "pointsNum": 3,
+            "parameters": {
+                "zkb": 20,
+                "frequence": 3,
+                "speed": 4,
+                "ultrasoundIntensity": 0.9,
+                "time": 12,
+                "strength": 1
+            }
+        },
+        {
+            "bodyName": "腰部",
+            "mode": "常规治疗",
+            "type": "welld",
+            "optionName": "方案1",
+            "pointsNum": 2,
+            "parameters": {
+                "zkb": 20,
+                "frequence": 1,
+                "speed": 4,
+                "ultrasoundIntensity": 2.0,
+                "time": 8,
+                "strength": 1
+            }
+        },
+        {
+            "bodyName": "腰部",
+            "mode": "常规治疗",
+            "type": "welld",
+            "optionName": "方案2",
+            "pointsNum": 2,
+            "parameters": {
+                "zkb": 20,
+                "frequence": 3,
+                "speed": 4,
+                "ultrasoundIntensity": 0.9,
+                "time": 8,
+                "strength": 1
+            }
+        },
+        {
+            "bodyName": "腰骶部",
+            "mode": "常规治疗",
+            "type": "welld",
+            "optionName": "方案1",
+            "pointsNum": 3,
+            "parameters": {
+                "zkb": 20,
+                "frequence": 1,
+                "speed": 4,
+                "ultrasoundIntensity": 2.0,
+                "time": 10,
+                "strength": 1
+            }
+        },
+        {
+            "bodyName": "臀部",
+            "mode": "痛点治疗",
+            "type": "welld",
+            "optionName": "方案1",
+            "pointsNum": 4,
+            "parameters": {
+                "zkb": 20,
+                "frequence": 1,
+                "speed": 4,
+                "ultrasoundIntensity": 2.0,
+                "time": 20,
+                "strength": 1
+            }
+        },
+        {
+            "bodyName": "大腿外侧",
+            "mode": "常规治疗",
+            "type": "welld",
+            "optionName": "方案1",
+            "pointsNum": 3,
+            "parameters": {
+                "zkb": 20,
+                "frequence": 1,
+                "speed": 4,
+                "ultrasoundIntensity": 2.0,
+                "time": 20,
+                "strength": 1
+            }
+        },
+        {
+            "bodyName": "小腿",
+            "mode": "常规治疗",
+            "type": "welld",
+            "optionName": "方案1",
+            "pointsNum": 2,
+            "parameters": {
+                "zkb": 20,
+                "frequence": 1,
+                "speed": 4,
+                "ultrasoundIntensity": 2.0,
+                "time": 20,
+                "strength": 1
+            }
+        },
+        {
+            "bodyName": "腹部",
+            "mode": "顺时针",
+            "type": "welld",
+            "optionName": "方案1",
+            "pointsNum": 1,
+            "parameters": {
+                "zkb": 20,
+                "frequence": 1,
+                "speed": 4,
+                "ultrasoundIntensity": 2.0,
+                "time": 20,
+                "strength": 1
+            }
+        },
+        {
+            "bodyName": "腹部",
+            "mode": "逆时针",
+            "type": "welld",
+            "optionName": "方案1",
+            "pointsNum": 1,
+            "parameters": {
+                "zkb": 20,
+                "frequence": 1,
+                "speed": 4,
+                "ultrasoundIntensity": 2.0,
+                "time": 20,
+                "strength": 1
+            }
+        },
+        {
+            "bodyName": "肩颈部",
+            "mode": "痛点治疗",
+            "type": "yours",
+            "optionName": "test1",
+            "pointsNum": 3,
+            "parameters": {
+                "zkb": 80,
+                "frequence": 3,
+                "speed": 2,
+                "ultrasoundIntensity": 1.2,
+                "time": 7,
+                "strength": 1
+            }
+        },
+        {
+            "bodyName": "肩颈部",
+            "mode": "痛点治疗",
+            "type": "yours",
+            "optionName": "testnew",
+            "pointsNum": 3,
+            "parameters": {
+                "zkb": 20,
+                "frequence": 1,
+                "speed": 2,
+                "ultrasoundIntensity": 0.30000000000000004,
+                "time": 2,
+                "strength": 1
+            }
+        }
+    ]
+}

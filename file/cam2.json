@@ -1,0 +1,35 @@
+{
+    "camera": "camera_2",
+    "treatDetail": [
+        {
+            "type": "welld",
+            "optionName": "方案1",
+            "parameters": {
+                "zkb": 20,
+                "frequence": 1,
+                "ultrasoundIntensity": 2.0,
+                "time": 10
+            }
+        },
+        {
+            "type": "welld",
+            "optionName": "方案2",
+            "parameters": {
+                "zkb": 10,
+                "frequence": 3,
+                "ultrasoundIntensity": 3.0,
+                "time": 20
+            }
+        },
+        {
+            "type": "yours",
+            "optionName": "好好好自定义",
+            "parameters": {
+                "zkb": 10,
+                "frequence": 3,
+                "ultrasoundIntensity": 0.30000000000000016,
+                "time": 5
+            }
+        }
+    ]
+}

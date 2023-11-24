@@ -1,0 +1,1 @@
+pyinstaller --add-data "file/;./file" --add-data "res/images;./res/images" --add-data "res/media;./res/media" --paths C:\SoftWare\Anaconda3\envs\robotUI\Lib\frrpc.pyd -p .\src  -p .\res\pngConfig_rc.py -n WelldTreat -D .\main.py --hidden-import xmlrpc --hidden-import xmlrpc.client  --clean
